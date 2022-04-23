@@ -1,0 +1,8 @@
+{
+  "name": "AWS-Secret-Manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bharathmca68/AWS-Secret-Manager.git",
+  "author": "Bharath <bharath@rapidinnovation.dev>",
+  "license": "MIT"
+}

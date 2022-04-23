@@ -1,2 +1,3 @@
-# AWS-Secret-Manager
-This repository explains how to connect with AWS-secret Manager and fetch the secret from AWS
+# AWS-Secret-Manager with simple nodeJS Application
+
+Using AWS Secrets Manager to Securely Store and Retrieve App Secrets in Node.js.
